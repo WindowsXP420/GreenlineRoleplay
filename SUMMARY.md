@@ -51,3 +51,8 @@
   * [Section 7 - Communications Policy](sop/section-7-communications-policy/README.md)
     * [7.1](sop/section-7-communications-policy/7.1.md)
     * [7.2](sop/section-7-communications-policy/7.2.md)
+  * [Section 8 - Transfers](sop/section-8-transfers/README.md)
+    * [8.1 - Transfer Policy](sop/section-8-transfers/8.1-transfer-policy.md)
+    * [8.2 - Denial of Transfers](sop/section-8-transfers/8.2-denial-of-transfers.md)
+  * [Section 9 - Leaves of Absences](sop/section-9-leaves-of-absences/README.md)
+    * [9.1 - Leaves of Absences](sop/section-9-leaves-of-absences/9.1-leaves-of-absences.md)
