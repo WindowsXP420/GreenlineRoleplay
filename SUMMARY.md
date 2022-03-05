@@ -34,7 +34,7 @@
     * [5.5 - Use of Force](sop/section-5-department-procedure/5.5-use-of-force.md)
     * [5.6 - Moving Vehicles](sop/section-5-department-procedure/5.6-moving-vehicles.md)
     * [5.7 - Reporting Discharges Of Firearms](sop/section-5-department-procedure/5.7-reporting-discharges-of-firearms.md)
-    * [5.8 - 10-99 - Trooper in Distress](sop/section-5-department-procedure/5.8-10-99-trooper-in-distress.md)
+    * [5.8 - 10-99 - Officer in Distress](sop/section-5-department-procedure/5.8-10-99-officer-in-distress.md)
     * [5.9 - Leaving Call/Incident Scenes](sop/section-5-department-procedure/5.9-leaving-call-incident-scenes.md)
     * [5.10 - Off-Duty Law Enforcement Actions](sop/section-5-department-procedure/5.10-off-duty-law-enforcement-actions.md)
     * [5.11 - Non Emergency Driving: Code 1 and 2 Operations](sop/section-5-department-procedure/5.11-non-emergency-driving-code-1-and-2-operations.md)

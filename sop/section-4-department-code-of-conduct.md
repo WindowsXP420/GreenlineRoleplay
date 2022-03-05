@@ -1,6 +1,6 @@
 # Section 4 - Department Code of Conduct
 
-Members of the Los Santos Police Department shall be courteous and respectful to the public and co-workers. Our encounters should be predicated upon civility and the appropriate use of a Troopers discretion based upon the totality of the circumstances. Members of Los Santos Police Department should avoid abusive, profane language or gestures and actions that bring disrespect upon the Department or members of the community. This includes unreasonable orders, or warnings not within the lawful scope of the member’s authority.
+Members of the Los Santos Police Department shall be courteous and respectful to the public and co-workers. Our encounters should be predicated upon civility and the appropriate use of a Officers discretion based upon the totality of the circumstances. Members of Los Santos Police Department should avoid abusive, profane language or gestures and actions that bring disrespect upon the Department or members of the community. This includes unreasonable orders, or warnings not within the lawful scope of the member’s authority.
 
 Should a member of the public request identification from an Officer at any time, the Officers shall provide their full name, badge number and show their department issued identification card at the earliest safe opportunity to do so. Exceptions include requests where the Officer feels his identification would pose a threat to himself.
 
