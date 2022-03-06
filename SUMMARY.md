@@ -73,7 +73,7 @@
       * [SOP](sub-divisions/detectives-bureau/gang-task-force/vehicle-theft-task-force.md)
   * [S.W.A.T](sub-divisions/s.w.a.t/README.md)
     * [Page 2](sub-divisions/s.w.a.t/page-2.md)
-  * [Vehicle Theft Task Force](sub-divisions/warrants-divison/README.md)
+  * [Anti-Street Racing Division](sub-divisions/warrants-divison/README.md)
     * [Page 4](sub-divisions/warrants-divison/page-4.md)
   * [Air Unit](sub-divisions/air-unit/README.md)
     * [Page 5](sub-divisions/air-unit/page-5.md)
