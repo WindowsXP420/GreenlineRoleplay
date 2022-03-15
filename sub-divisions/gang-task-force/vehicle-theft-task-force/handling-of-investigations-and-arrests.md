@@ -12,13 +12,13 @@ A. In most cases, arrests by G.N.T Force members will be on-view arrests. Proper
 
 B. Assignments to investigate criminal violations will be given to G.N.T. Force members by the lieutenant (if available) or sergeant (if available), The investigator will develop all assignments to the best of his/her ability. The lieutenant or sergeant will review investigative results for completeness and thoroughness. The clearing of complaints and reports will be responsibility of the lieutenant or sergeant .&#x20;
 
-C. Investigators will not initiate any "joint investigations" without first obtaining the Chief's  approval. When necessary, the Chief will meet with representatives of other agencies or entities having a mutual interest in the investigation. The chief, or his designee, will make a recommendation to the Section Commander, who will make the final decision.&#x20;
+C. Investigators will not initiate any "joint investigations" without first obtaining the Chief's  approval. When necessary, the Chief will meet with representatives of other agencies or entities having a mutual interest in the investigation. The chief, or his designee, will make a recommendation to the current division in question for joint operation, who will make the final decision.&#x20;
 
 ## II. Non-Unit Arrests and information Reports&#x20;
 
 A. In most cases, arrests by non-Unit members for violations will be on view. Assistance and advice will be provided when requested or deemed appropriate.&#x20;
 
-B. The submission of information reports by non-Unit members concerning violations will be given serious consideration by the Detail Sergeant. They will be recorded and appropriate action shall be taken.&#x20;
+B. The submission of information reports by non-Unit members concerning violations will be given serious consideration by the lieutenant or sergeant. They will be recorded and appropriate action shall be taken.&#x20;
 
 C. A copy of all field reports relating to violations will be directed to the Unit by the duplicating center. These reports will be reviewed by the appropriate Detail Supervisor and filed.&#x20;
 
