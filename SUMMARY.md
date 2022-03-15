@@ -77,6 +77,7 @@
     * [Page 5](sub-divisions/air-unit/page-5.md)
   * [Gang & Narcotics Task Force](sub-divisions/gang-task-force/README.md)
     * [S.O.P](sub-divisions/gang-task-force/vehicle-theft-task-force/README.md)
+      * [Chain of Command](sub-divisions/gang-task-force/vehicle-theft-task-force/chain-of-command.md)
       * [Orientation of New Members](sub-divisions/gang-task-force/vehicle-theft-task-force/orientation-of-new-members.md)
       * [Training (Narcotics Task Force)](sub-divisions/gang-task-force/vehicle-theft-task-force/training-narcotics-task-force.md)
       * [Training (Gang Task Force)](sub-divisions/gang-task-force/vehicle-theft-task-force/training-gang-task-force.md)
