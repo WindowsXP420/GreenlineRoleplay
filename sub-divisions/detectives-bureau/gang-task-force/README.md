@@ -1,5 +1,3 @@
 # Gang Task Force
 
-**Requirements**
-
-* Officer III
+**Lead:** J. Jonah Jameson (@ITSYOURBOIDEAD#2572)
