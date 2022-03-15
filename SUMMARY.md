@@ -84,3 +84,5 @@
       * [Investigative Reporting Procedures](sub-divisions/gang-task-force/vehicle-theft-task-force/investigative-reporting-procedures.md)
       * [Activity Reports](sub-divisions/gang-task-force/vehicle-theft-task-force/activity-reports.md)
       * [Handling of investigations and Arrests](sub-divisions/gang-task-force/vehicle-theft-task-force/handling-of-investigations-and-arrests.md)
+      * [Cellular Telephones](sub-divisions/gang-task-force/vehicle-theft-task-force/cellular-telephones.md)
+      * [Covert Undercover Bank Account](sub-divisions/gang-task-force/vehicle-theft-task-force/covert-undercover-bank-account.md)
