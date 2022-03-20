@@ -45,8 +45,6 @@ Example: Case number: 19-112-0903-0123:&#x20;
 
 19 - Year (2019)
 
-112 - SPDU code
-
 0903 -[ NCIC code](http://offensecodes.com/ncic)
 
 0123 - Case number.
