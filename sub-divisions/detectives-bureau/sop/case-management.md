@@ -41,7 +41,7 @@ All other cases shall be assigned:&#x20;
 * A third sequence of numbers reflecting National Crime Information Center (NCIC) offense code
 * A fourth sequence of numbers representing the consecutively assigned case number given in the order that the case is received.
 
-Example: Case number: 19-112-0903-0123:&#x20;
+Example: Case number: 19-0903-0123:&#x20;
 
 19 - Year (2019)
 
