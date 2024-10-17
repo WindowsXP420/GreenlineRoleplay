@@ -9,8 +9,8 @@ description: Ranking Structure for SASP
 * Commissioner&#x20;
 * Assistant Commissioner&#x20;
 * Deputy Commissioner&#x20;
-* Major&#x20;
 * Colonel&#x20;
+* Major
 
 **Department Administration**
 
