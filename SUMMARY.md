@@ -6,7 +6,7 @@
     * [1. 2 Responsibility](sop/section-1-law-enforcement-code-of-ethics/1.-2-responsibility.md)
     * [1.3 Respectability](sop/section-1-law-enforcement-code-of-ethics/1.3-respectability.md)
     * [1.4 Administration Office Goals](sop/section-1-law-enforcement-code-of-ethics/1.4-administration-office-goals.md)
-    * [1.5 - Fundamentals of Law Enforcemen](sop/section-1-law-enforcement-code-of-ethics/1.5-fundamentals-of-law-enforcemen.md)
+    * [1.5 - Fundamentals of Law Enforcement](sop/section-1-law-enforcement-code-of-ethics/1.5-fundamentals-of-law-enforcemen.md)
   * [Section 2 - Punitive Articles and Disciplinary Policy](sop/section-2-punitive-articles-and-disciplinary-policy/README.md)
     * [2.1 Fraudulent Applications](sop/section-2-punitive-articles-and-disciplinary-policy/2.1-fraudulent-applications.md)
     * [2.2 - Insubordination](sop/section-2-punitive-articles-and-disciplinary-policy/2.2-insubordination.md)
