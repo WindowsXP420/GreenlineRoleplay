@@ -60,3 +60,4 @@
     * [Probationary Task](important-links/probationary-trooper-guide/page-1.md)
     * [Probationary Arrest Guide](important-links/probationary-trooper-guide/probationary-arrest-guide.md)
   * [Department Panel](important-links/department-panel.md)
+* [Change Logs](change-logs.md)
