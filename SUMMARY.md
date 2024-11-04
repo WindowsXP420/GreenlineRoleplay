@@ -57,6 +57,6 @@
   * [Uniform & Vehicle Structure](important-links/uniform-and-vehicle-structure.md)
   * [Weapon Structure](important-links/weapon-structure.md)
   * [Probationary Trooper Guide](important-links/probationary-trooper-guide/README.md)
-    * [Probationary Task](important-links/probationary-trooper-guide/probationary-task.md)
+    * [Probationary Task](important-links/probationary-trooper-guide/page-1.md)
     * [Probationary Arrest Guide](important-links/probationary-trooper-guide/probationary-arrest-guide.md)
   * [Department Panel](important-links/department-panel.md)
