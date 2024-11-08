@@ -33,3 +33,12 @@ description: Ranking Structure for SASP
 * Trooper
 * Probationary Trooper
 * Cadet
+
+**Special Ranks**
+
+* Public Information Office
+* Brazil The Janitor&#x20;
+* LSMPD
+* BCSO
+* Joint Department Task Force
+* Joint Department Investigations

@@ -47,6 +47,7 @@
     * [5.18 - Evidence - Handling and Chain of Custody](sop/section-5-department-procedure/5.18-evidence-handling-and-chain-of-custody.md)
     * [5.19 - Pursuit Policy](sop/section-5-department-procedure/5.19-pursuit-policy.md)
     * [5.20 - Felony Stops](sop/section-5-department-procedure/5.20-felony-stops.md)
+    * [5.21 - Vehicles](sop/section-5-department-procedure/5.21-vehicles.md)
   * [Section 6 - Information Release Policy](sop/section-6-information-release-policy.md)
   * [Section 7 - Transfers](sop/section-8-transfers/README.md)
     * [7.1 - Transfer Policy](sop/section-8-transfers/8.1-transfer-policy.md)
