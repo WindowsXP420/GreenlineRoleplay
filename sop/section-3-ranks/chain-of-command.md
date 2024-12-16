@@ -5,10 +5,10 @@
 * Commissioner&#x20;
 * Assistant Commissioner&#x20;
 * Deputy Commissioner&#x20;
-* Major&#x20;
+* Major
 * Colonel&#x20;
 
-**Department Administration**
+**Command Staff**
 
 * Captain
 * Lieutenant

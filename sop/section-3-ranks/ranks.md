@@ -12,7 +12,7 @@ description: Ranking Structure for SASP
 * Colonel&#x20;
 * Major
 
-**Department Administration**
+**Command Staff**
 
 * Captain
 * Lieutenant
@@ -37,7 +37,7 @@ description: Ranking Structure for SASP
 **Special Ranks**
 
 * Public Information Office
-* Brazil The Janitor&#x20;
+* The Janitor&#x20;
 * LSMPD
 * BCSO
 * Joint Department Task Force
