@@ -23,4 +23,5 @@ Change logs:
 * Added Section 9 - Promotions
 * Updated SOP 5.3 - Equipment
 * Added Operation Warpath to SOP
+* Added 8.2 - Reduce of activity
 
