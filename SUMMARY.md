@@ -57,6 +57,7 @@
     * [7.2 - Denial of Transfers](sop/section-8-transfers/8.2-denial-of-transfers.md)
   * [Section 8 - Leaves of Absences](sop/section-9-leaves-of-absences/README.md)
     * [8.1 - Leaves of Absences](sop/section-9-leaves-of-absences/9.1-leaves-of-absences.md)
+    * [8.2 - Reduce of activity](sop/section-9-leaves-of-absences/8.2-reduce-of-activity.md)
   * [Section 9 - Promotions and Transfer Ranks](sop/section-9-promotions-and-transfer-ranks/README.md)
     * [9.1 - Promotions](sop/section-9-promotions-and-transfer-ranks/9.1-promotions.md)
     * [9.2 - Promotions Requirements](sop/section-9-promotions-and-transfer-ranks/9.2-promotions-requirements.md)
